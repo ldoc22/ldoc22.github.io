@@ -2924,3 +2924,18 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-roCJU6xFJK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #333333, #8cfd4f);
+}
+@media (min-width: 992px) {
+  .cid-roCJU6xFJK .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-roCJU6xFJK .mbr-figure {
+    padding-top: 3rem;
+  }
+}
